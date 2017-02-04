@@ -11,19 +11,29 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork is like a clone But ob your GitHub account.
+    Clone is used to clone a repository on local machine from GitHub.
+    Branches are used to add a new feature or modify exixting files for experimenting.
+
+    Forking can be used to checkout other repositories and make our own versions of it along with others on GitHub.
+    Cloning can be used to checkout repositories locally.
+    Branch can be used to make changes in existing directory and contributing to the working repository.
+
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Locally resolve merging conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without using Github, Collaboration would be done only by talking to each other nad then making the changes.
+    Easy part would be there would be no merging issues.
+    And Maintaining the versions would be harder.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in a seperate branch helps to test the changes in that branch first and testing it, before merging into master.
+    Making changes to master branch directly could help in reducing the number of commits but may introduce unneccessary bugs and make the master branch undeplyable.
